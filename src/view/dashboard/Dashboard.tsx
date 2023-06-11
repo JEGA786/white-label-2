@@ -115,21 +115,21 @@ export function Dashboard() {
       <div className="testimonial d-flex flex-wrap justify-content-around py-3">
         <Testimonial
          img={require("../../asset/sample1/𝗧𝗘𝗦𝗧𝗜𝗠𝗢𝗡𝗜𝗔𝗟𝗦 1.png")}
-          h4={`M-Payoff`}
+          h4={`M Pay-off`}
           p1={`Testimonials`}
-          p2={`payoff ke sevaye bahut ni surakshit aur vishwasniye hai mujhe bahut aacha laga. Main sab ko M pay-off ki sewaon upyog k liye salah dunga.`}
+          p2={`M pay-off ke sevaye bahut ni surakshit aur vishwasniye hai mujhe bahut aacha laga. Main sab ko M pay-off ki sewaon upyog k liye salah dunga.`}
         />
         <Testimonial
           img={require("../../asset/sample1/𝗧𝗘𝗦𝗧𝗜𝗠𝗢𝗡𝗜𝗔𝗟𝗦 2.png")}
-          h4={`M-Payoff`}
+          h4={`M Pay-off`}
           p1={`Testimonials`}
-          p2={`payoff ke sevaye bahut ni surakshit aur vishwasniye hai mujhe bahut aacha laga. Main sab ko M pay-off ki sewaon upyog k liye salah dunga.`}
+          p2={`M pay-off ke sevaye bahut ni surakshit aur vishwasniye hai mujhe bahut aacha laga. Main sab ko M pay-off ki sewaon upyog k liye salah dunga.`}
         />
         <Testimonial
           img={require("../../asset/sample1/𝗧𝗘𝗦𝗧𝗜𝗠𝗢𝗡𝗜𝗔𝗟𝗦 3.png")}
-          h4={`M-Payoff`}
+          h4={`M Pay-off`}
           p1={`Testimonials`}
-          p2={`payoff ke sevaye bahut ni surakshit aur vishwasniye hai mujhe bahut aacha laga. Main sab ko M pay-off ki sewaon upyog k liye salah dunga.`}
+          p2={`M pay-off ke sevaye bahut ni surakshit aur vishwasniye hai mujhe bahut aacha laga. Main sab ko M pay-off ki sewaon upyog k liye salah dunga.`}
         />
       </div>
       <Dashboardfooter />
