@@ -19,7 +19,7 @@ export function Dashboardfooter() {
         <div className="row foot justify-content-center ">
           <div className="footimg col-12 col-md-3 col-lg-3">
             <img
-              src={require("../../asset/payoff logo.png")}
+              src={require("../../asset/payofflogo.png")}
               alt="M pay-off logo"
               className="img-fluid  mt-sm-4 "
             />

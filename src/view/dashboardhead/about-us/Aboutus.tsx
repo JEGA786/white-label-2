@@ -16,12 +16,12 @@ export function Aboutus() {
         <Testimonial
           img={require("../../../asset/sample1/𝗢𝘂𝗿 𝗠𝗶𝘀𝘀𝗶𝗼𝗻.png")}
           h2={"𝗢𝘂𝗿 𝗠𝗶𝘀𝘀𝗶𝗼𝗻"}
-          p1={`M pay-off is building the largest network of its business associates and these associates are equipped with technology and connectivity to provide retail financial services via a one stop payment solution platform for its end customers.`}
+          p1={`M Pay-Off is building the largest network of its business associates and these associates are equipped with technology and connectivity to provide retail financial services via a one stop payment solution platform for its end customers.`}
         />
         <Testimonial
           img={require("../../../asset/sample1/𝗢𝘂𝗿 𝘃𝗶𝘀𝗶𝗼𝗻.png")}
           h2={"𝗢𝘂𝗿 𝘃𝗶𝘀𝗶𝗼𝗻"}
-          p1={`M pay-off brings banking and financial services to millions of Indian consumers who are under banked and unbanked, to provide banking services at doorstep.`}
+          p1={`M Pay-Off brings banking and financial services to millions of Indian consumers who are under banked and unbanked, to provide banking services at doorstep.`}
         />
       </div>
 

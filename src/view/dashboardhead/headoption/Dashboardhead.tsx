@@ -19,7 +19,7 @@ export function Dashboardhead() {
         <div className="col d-flex align-items-center justify-content-between  px-0">
           <a className="head-logo " href="/">
             <img
-              src={require("../../../asset/payoff logo.png")}
+              src={require("../../../asset/payofflogo.png")}
               alt="payoff logo"
               className="logo-circle"
             />
@@ -45,7 +45,7 @@ export function Dashboardhead() {
             >
               <a className="head-logo" href="/">
                 <img
-                  src={require("../../../asset/payoff logo.png")}
+                  src={require("../../../asset/payofflogo.png")}
                   alt="m pay-off logo"
                   className="logo-circle"
                 />
