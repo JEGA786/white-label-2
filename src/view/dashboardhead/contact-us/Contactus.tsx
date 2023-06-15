@@ -38,18 +38,35 @@ export function Contactus() {
               h6={"Company Name"}
               p={`M-Kube Infocon Private Limited`}
             />
-            
+                         <Register
+              icon={" fs-3 mt-3 fa fa-envelope col-3"}
+              h6={"Director's Detail"}
+              p={`Mohammed Asif K (CEO/Founder) Hassina Nakkath (Director)
+              `}
+            />
+
             <Register
               icon={"fs-3 mt-3 fa fa-location-dot col-3"}
               h6={"Registered Address"}
               p={`First Floor, Plot No-H-85 A, TNHB Colony, Sialiyaneri, Anaiyur, Madurai-625017.
               GST No : 33AAMCM1138J1ZH`}
             />
+        
+             <Register
+              icon={"fs-3 mt-3 fa-solid fa-location-crosshairs col-3"}
+              h6={"Branch Office"}
+              p={`
+              The Executive Zone, Shakti Tower-1, 766, Anna Salai, Chennai - 600 002
+              
+              Door No.8/33C, Cumbum, Periyakulam, Theni. 625516
+              `}
+            />
             
             <Register
               icon={" fs-3 mt-3 fa fa-envelope col-3"}
               h6={"Email"}
               p={`mak@mkube.co.in`}
+      
             />
             <Register
               icon={"fs-3 mt-3 fa fa-phone col-3"}
