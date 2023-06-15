@@ -17,7 +17,7 @@ export function Founding() {
       <div className="col-lg-10 mx-auto py-5">
         <Testimonial
           img={require("../../../asset/sample1/found1.png")}
-          h4={`Derrick Rose`}
+          h4={`Mohammed Asif K`}
           p1={`Co Founder & CEO`}
           p2={`Entrepreneurial director proven his ability to enhance the operational efficiency, customer experience and ultimately profitability of businesses spanning the last 20 years.`}
           p3={
