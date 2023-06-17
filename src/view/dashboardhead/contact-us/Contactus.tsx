@@ -73,11 +73,11 @@ export function Contactus() {
               h6={"Phone no"}
               p={`+91 90252 17750`}
             />
-            <Register
+            {/* <Register
               icon={"fs-3 mt-3 fa fa-book col-3"}
               h6={"GST NO"}
               p={`33AAMCM1138J1ZH`}
-            />
+            /> */}
           </div>
         </div>
 
